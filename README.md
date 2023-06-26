@@ -11,4 +11,5 @@
 
 <h2 align="center">⋆｡ﾟ✶°💜 contact me 💜⋆｡ﾟ✶°</h2>
 
-<!--<p align="center"><a href="https://wonjongah.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://www.naver.com/"/></a>--!>  <a href="mailto:sanghunlee1995@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanghunlee1995@gmail.com"/></a></p>
+<p align="center"><!--<a href="https://wonjongah.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white&link=https://www.naver.com/"/></a>--!> 
+<a href="mailto:sanghunlee1995@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanghunlee1995@gmail.com"/></a></p>
