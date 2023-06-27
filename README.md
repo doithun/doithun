@@ -16,9 +16,12 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>--!>  
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a></p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> 
-<p align="center"><img src="https://img.shields.io/badge/SQLserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"></a> 
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/SQLserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"></a> 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>  
 <!-- <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  
@@ -27,7 +30,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a> 
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"></a> 
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"></a> 
-<!--<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>--!></p>
+<!--<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>--!>
+</p>
 
 
 
